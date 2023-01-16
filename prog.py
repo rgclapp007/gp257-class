@@ -4,7 +4,7 @@
 
 def printMany(word:str,n:int)
   """ I print word n times"""
-  for i in n:
+  for i in range(n):
     print(word)
 
 
