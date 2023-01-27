@@ -1,0 +1,3 @@
+[submodule "data-types-and-machine-errors"]
+	path = data-types-and-machine-errors
+	url = https://github.com/joestitty/gp257-class.git
